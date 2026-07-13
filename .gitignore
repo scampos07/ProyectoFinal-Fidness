@@ -1,0 +1,11 @@
+# Archivos generados por Maven
+target/
+
+# Archivos compilados de Java
+*.class
+
+# Carpeta de distribución
+dist/
+
+# Carpeta de compilación
+build/
